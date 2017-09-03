@@ -1,6 +1,6 @@
 # 基于jQuery的全屏轮播图插件
 
-###html结构
+### html结构
 ```html
 <div id="slider">
   <ul class="slider">
@@ -12,7 +12,7 @@
 </div>
 ```
 
-###调用
+### 调用
 ```javascript
 $('#slider').fullScreenSlider({
   speed: 3000,  //setInterval(optional)
